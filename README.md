@@ -1,4 +1,4 @@
-# Hello-World-4100
-CIS 4100 Educational 
+# Hello-World-3610 WEBDESIGN
+CIS 3610 Educational 
 
 This is a basic example from in-class 
